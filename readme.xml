@@ -6,7 +6,7 @@ These are rootclasses to be used by economy.
 Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
 Do not forget to add attribute act="car", if root class represents moveable vehicles
 -->
-		<rootclass name="DefaultWeaponTEST2" /> <!-- weapons -->
+		<rootclass name="DefaultWeaponTEST-FU" /> <!-- weapons -->
 		<rootclass name="DefaultMagazine" /> <!-- magazines -->
 		<rootclass name="Inventory_Base" /> <!-- inventory items -->
 		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
